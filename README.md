@@ -1,6 +1,6 @@
 ## Hi 
 
-I'm Tomás 👋
+I'm Tomás
 I'm an Informatics Engineering student at FEUP.
 
 ## Projects
@@ -12,7 +12,7 @@ A lightweight Linux resource monitor written in C++ and ncurses, focused on trac
 
 A Qt6 desktop application for processing files using tools such as OCRmyPDF, Tesseract, FFmpeg, ImageMagick and Pandoc. Available for Linux as an AppImage.
 
-## SETUN Emulator
+### SETUN Emulator
 
 An emulator of the Soviet SETUN computer, implementing its unusual balanced-ternary architecture in C++.
 
