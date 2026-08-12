@@ -12,8 +12,9 @@ A Qt6 desktop application for processing files using tools such as OCRmyPDF, Tes
 ### SETUN Emulator
 An emulator of the Soviet SETUN computer, implementing its unusual balanced-ternary architecture in C++.
 
-
-![output](output.gif)
+<p align="center">
+  <img src="output.gif" alt="output">
+</p>
 
 <!--
 **tomasteixeira07/tomasteixeira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
