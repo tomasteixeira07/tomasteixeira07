@@ -13,7 +13,7 @@ A Qt6 desktop application for processing files using tools such as OCRmyPDF, Tes
 An emulator of the Soviet SETUN computer, implementing its unusual balanced-ternary architecture in C++.
 
 
-<br><br><br>
+<br><br>
 <p align="center">
   <img src="output.gif" alt="output">
 </p>
